@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 12px;
+  text-align: center;
+  line-height: 2; /* Espaçamento entre linhas duplo */
+  color: red;
+}
+
+#quadro {
+  border: 2px solid black; /* Borda do quadro */
+  padding: 20px; /* Espaçamento interno do quadro */
+  display: inline-block; /* Permite centralizar horizontalmente sem usar tabela */
+}

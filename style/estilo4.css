@@ -1,0 +1,74 @@
+table {
+    font-family: Arial;
+    background: #FFFFFF;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DDDDDD;;
+    width: 800px;
+    margin: auto;
+    
+}
+
+.taça {
+   color: #003366;
+   font-size: 18px;
+   text-align: center;
+}
+
+.pré {
+   color: #1398BE;
+   font-size: 18px;
+   text-align: center;
+}
+
+.sul {
+   color: #DE9800;
+   font-size: 18px;
+   text-align: center;
+}
+
+.neutro {
+   color: #CCCCCC;
+   font-size: 18px;
+   text-align: center;
+}
+
+.rebaixado {
+   color: #C91B04;
+   font-size: 18px;
+   text-align: center;
+}
+
+.título {
+   color: #999999;
+   font-size: 13px;
+   text-align: center;
+}
+
+.time {
+   color: #666666;
+   font-size: 14px;
+   text-align: left;
+}
+
+.pontos{
+   color: #000000;
+   font-size: 14px;
+   text-align: center;
+   background: #F7F7F7;
+}
+
+.class {
+   color: #666666;
+   font-size: 14px;
+   text-align: center;
+   
+
+}
+
+.fundo {
+   font-size: 14px;
+   text-align: center;
+   background: #F7F7F7;;
+}

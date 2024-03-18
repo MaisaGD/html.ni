@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-size: 10pt;
+}
+
+h1, h2, h3 {
+  color: red;
+}
+
+h1 {
+  font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+
+
+

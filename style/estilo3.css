@@ -1,0 +1,47 @@
+table {
+	 font-family: Arial;
+	 font-size: 12px;
+	 background: #C7E7F3;
+
+	 border-width: 1px;
+     border-style: solid;
+     border-color: #C7E7F3;
+     width: 550px;
+     margin: auto;
+}
+
+
+th {
+	 text-align: center;
+	 color: #FFFFFF;
+	 background: #0D5188;
+
+}
+
+tr {
+	 color: #000000;
+	 background: #66C5E3;
+}
+
+div {
+	 color: #000000;
+	 background: #C0C0C0;
+}
+
+col {
+	 color: #0D5188;
+	 background: #C7E7F3;
+}
+
+.posição {
+	 background: #C0C0C0;
+}
+
+.cidade {
+	 color: #0D5188;
+	 background: #C7E7F3;
+}
+
+.população {
+	 background: #C7E7F3;
+}
